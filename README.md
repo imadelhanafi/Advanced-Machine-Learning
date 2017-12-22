@@ -18,3 +18,5 @@ All materials and labs for Machine Learning course
   - Lecture 5 : Trees, Bagging, Random Forest and Boosting
   - Lecture 6 : Graphs in Machine Learning
   - Lecture 7 : Graphs and Machine Learning II - Semi-supervised learning
+  - Lecture 8 : Introduction to Neural Networks
+  - Lecture 9 : Features Design
