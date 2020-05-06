@@ -1,6 +1,6 @@
 # Advanced Machine Learning Course - MS Data Science
 
-All materials and labs for Machine Learning course
+Materials and labs for Machine Learning course
 
 
 ### Lectures
@@ -21,7 +21,7 @@ All materials and labs for Machine Learning course
   - 10-11-2017 session : Support Vector Machine - Classification and regression
   - 24-11-2017 session : Spectral Clustering - Semi-Supervised Learning
   
-### Additional projects
+### Mini-projects
 
   - Loan Predictions Analysis: EDA and Supervised Learning algortihm for predicting loan default. 
   - Sentence classification: Multi-class classification problem with Machine Learning and Deep Learning approachs.
