@@ -17,9 +17,9 @@ Materials and labs for Machine Learning course
 
 ### Labs
 
-  - 29-09-2017 session : Initiation to Data pre-processing and CARET library in R.
-  - 10-11-2017 session : Support Vector Machine - Classification and regression
-  - 24-11-2017 session : Spectral Clustering - Semi-Supervised Learning
+  - Session 1 : Initiation to Data pre-processing and CARET library in R.
+  - Session 2 : Support Vector Machine - Classification and regression
+  - Session 3 : Spectral Clustering - Semi-Supervised Learning
   
 ### Mini-projects
 
